@@ -1,4 +1,4 @@
-Static and interactive reports for cryptocurrencies. 
+Static and interactive reports for cryptocurrencies created using Power BI. 
 
 Datasets used:
 
